@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/typescript-app/static/js/main.a3e80372.js",
+    "static/js/787.fda8e7a5.chunk.js": "/typescript-app/static/js/787.fda8e7a5.chunk.js",
+    "index.html": "/typescript-app/index.html",
+    "main.a3e80372.js.map": "/typescript-app/static/js/main.a3e80372.js.map",
+    "787.fda8e7a5.chunk.js.map": "/typescript-app/static/js/787.fda8e7a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a3e80372.js"
+  ]
+}
