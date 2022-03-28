@@ -1,0 +1,10 @@
+{
+  "requestCount": 20,
+  "totalCount": 50,
+  "response": {
+    "count": 30,
+    "normal": 25,
+    "slow": 3,
+    "verySlow": 2
+  }
+}

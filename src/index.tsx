@@ -6,6 +6,7 @@ import {QueryClient, QueryClientProvider} from "react-query";
 import {RecoilRoot} from "recoil";
 import {darkTheme} from "./theme";
 import {ThemeProvider} from "styled-components";
+import 'antd/dist/antd.css';
 
 const queryClient = new QueryClient();
 
